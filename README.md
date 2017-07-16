@@ -37,4 +37,5 @@ This distribution has most of the important college related applications pre-ins
 
 ## Downloads
 
-Downloads will be available under releases
+Downloads will be available under [releases](https://github.com/MUSoC/MIT-Linux/releases "Downloads")
+
