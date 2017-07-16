@@ -6,32 +6,32 @@ This distribution has most of the important college related applications pre-ins
 
 ## Installed apps
 
-⋅⋅* VLC Media Player
-⋅⋅* Gimp
-⋅⋅* GParted
-⋅⋅* PlayOnLinux
-⋅⋅* Google Chrome/Chromium
-⋅⋅* Steam
-⋅⋅* calibre
-⋅⋅* cantor
-⋅⋅* celestia-gnome
-⋅⋅* chemtool
-⋅⋅* dia-gnome
-⋅⋅* fritzing
-⋅⋅* inkscape
-⋅⋅* kalzium
-⋅⋅* kmplot
-⋅⋅* ktouch
-⋅⋅* kturtle
-⋅⋅* laby
-⋅⋅* lightspeed
-⋅⋅* lybniz
-⋅⋅* marble
-⋅⋅* melting
-⋅⋅* pencil
-⋅⋅* rocs
-⋅⋅* step
-⋅⋅* yorick
+* VLC Media Player
+* Gimp
+* GParted
+* PlayOnLinux
+* Google Chrome/Chromium
+* Steam
+* calibre
+* cantor
+* celestia-gnome
+* chemtool
+* dia-gnome
+* fritzing
+* inkscape
+* kalzium
+* kmplot
+* ktouch
+* kturtle
+* laby
+* lightspeed
+* lybniz
+* marble
+* melting
+* pencil
+* rocs
+* step
+* yorick
 
 
 
